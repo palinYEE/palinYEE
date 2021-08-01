@@ -25,8 +25,17 @@
   <img src="https://img.shields.io/badge/jenkins-informational?style=flat-square&logo=jenkins&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/rabbitmq-9cf?style=flat-square&logo=rabbitmq&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/neo4j-red?style=flat-square&logo=neo4j&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Latex-F05032?style=flat-square&logo=latex&logoColor=white"/>&nbsp
 </p>
 
 #### Paper
-- 
+- [안성현, 윤영진, 이윤진, 전창열, 김주영, 김동찬, 선형동치 알고리듬의 효율적인 구현에 관한 연구, 하계 통신학회 종합학술발표회, 2019 (6월)][paper_1]
+
+#### Cryptography
+- White-box Cryptography
+- Code-based Cryptography (goppa code) 
+
+
+
+[paper_1]: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09234683
