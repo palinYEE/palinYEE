@@ -6,7 +6,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>Data Engineer</b>🚀<br/>
-  I study algorithm, AI and cryptography. ⛰ 🏄<br/>
+  I study data science, algorithm, AI and cryptography. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
