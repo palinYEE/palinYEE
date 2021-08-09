@@ -40,7 +40,7 @@
  - url : [@palinyee12](https://velog.io/@palinyee12)
 <center>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=palinyee12&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=palinyee12&color=dark)](https://velog.io/@palinyee12)
 
 </center>
 
