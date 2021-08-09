@@ -36,6 +36,14 @@
 - White-box Cryptography
 - Code-based Cryptography (goppa code) 
 
+### 👋 Blog
+ - url : [@palinyee12](https://velog.io/@palinyee12)
+<center>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=palinyee12&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+
+</center>
+
 [![palinYEE's github stats](https://github-readme-stats.vercel.app/api?username=palinyee)](https://github.com/palinYEE/github-readme-stats)
 
 [paper_1]: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09234683
