@@ -38,6 +38,7 @@
 
 ### 👋 Blog
  - url : [@palinyee12](https://velog.io/@palinyee12)
+ - ios notion : [IOS 정리 노션](https://graceful-pond-e46.notion.site/iOS-9e2bc5fc224244f099c66e73affa1c9b)
 <center>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=palinyee12&color=dark)](https://velog.io/@palinyee12)
