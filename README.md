@@ -5,8 +5,8 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>network developer and KCMVP </b>🚀<br/>
-  I study kernel, algorithm, network and cryptography. ⛰ 🏄<br/>
+  👋&nbsp; Hi there! I'm <b>NestJS backend developer and KCMVP </b>🚀<br/>
+  I study NestJs and VueJS. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
