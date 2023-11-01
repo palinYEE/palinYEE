@@ -11,12 +11,17 @@
 </p>
 
 ### 💪 Skills
-#### Platforms & Languages
+#### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-A8B9CC?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 </p>
-
+#### Framework
+<p>
+  <img src="https://img.shields.io/badge/NodeJs-A8B9CC?style=flat-square&logo=NodeJs&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/NestJs-A8B9CC?style=flat-square&logo=NestJs&logoColor=white"/></a>&nbsp 
+</p>
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
@@ -24,7 +29,6 @@
   <img src="https://img.shields.io/badge/docker-blueviolet?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/jenkins-informational?style=flat-square&logo=jenkins&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/rabbitmq-9cf?style=flat-square&logo=rabbitmq&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/neo4j-red?style=flat-square&logo=neo4j&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Latex-F05032?style=flat-square&logo=latex&logoColor=white"/>&nbsp
 </p>
