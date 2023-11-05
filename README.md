@@ -46,11 +46,6 @@
  - url : [@palinyee12](https://velog.io/@palinyee12)
  - ios notion : [IOS 정리 노션](https://graceful-pond-e46.notion.site/iOS-9e2bc5fc224244f099c66e73affa1c9b)
  - NodeJS & NestJS notion: [NodeJS & NestJS 정리 노션](https://graceful-pond-e46.notion.site/NodeJs-NestJS-2056c23b218e46c187f9796842a01348?pvs=4)
-<center>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=palinyee12&color=dark)](https://velog.io/@palinyee12)
-
-</center>
 
 [![palinYEE's github stats](https://github-readme-stats.vercel.app/api?username=palinyee)](https://github.com/palinYEE/github-readme-stats)
 
